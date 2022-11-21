@@ -1,1 +1,1 @@
-# pytorch files
+# Miscellaneous notebooks for PyTorch programming
